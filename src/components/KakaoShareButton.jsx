@@ -47,3 +47,7 @@ export default KakaoShareButton;
 
 // google adsense
 // kakao adfit
+
+// SEO
+// search Engine Optimiztion
+// 검색엔진 최적화
