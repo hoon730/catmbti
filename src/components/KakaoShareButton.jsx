@@ -3,6 +3,7 @@ import { Button } from "react-bootstrap";
 const { Kakao } = window;
 
 const KakaoShareButton = (data) => {
+  console.log(data);
   const url = "https://hoonscatmbti.netlify.app";
   const resultURL = window.location.href;
 
