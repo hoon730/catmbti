@@ -112,3 +112,15 @@ export default App;
 // dothome & filezilla (*매우 번거로움)
 
 // 네이버 포털사이트 SEO 설정
+
+// https://app.netlify.com/
+
+// 지난주 금요일 MBTI 프로젝트
+
+// > git init
+// > git-hub 저장소 > respository 생성 (*catmbti)
+// > git remote add origin repository 주소 입력
+// > git add .
+// > git commit -m "first commit"
+// > git push origin master
+

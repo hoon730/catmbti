@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useNavigate, useSearchParams } from "react-router-dom";
 import styled from "styled-components";
 import { Button } from "react-bootstrap";
-import { ResultData } from "../assets/resultData";
+import { ResultData } from "../assets/resultdata";
 
 const Wrapper = styled.div`
   display: flex;
@@ -56,8 +56,6 @@ const Result = () => {
     const result = ResultData.find((s) => s.best === mbti);
     setResultData(result);
   }, [mbti]);
-
-  console.log(resultData);
 
   return (
     <Wrapper>
