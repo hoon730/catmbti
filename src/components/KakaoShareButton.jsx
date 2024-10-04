@@ -44,3 +44,6 @@ export default KakaoShareButton;
 // Kakao devlopers
 
 // 문서 > 메세지 > 카카오톡 공유: JavaScript
+
+// google adsense
+// kakao adfit
